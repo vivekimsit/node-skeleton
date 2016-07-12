@@ -1,0 +1,25 @@
+{
+  "name": "node-skeleton",
+  "version": "1.0.0",
+  "description": "Skeleton for getting started with node library.",
+  "license": "MIT",
+  "repository": "",
+  "author": {
+    "name": "",
+    "email": "",
+    "url": ""
+  },
+  "main": "index.js",
+  "files": [
+    "index.js"
+  ],
+  "keywords": [
+
+  ],
+  "engines": {
+    "node": ">=4"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+}
